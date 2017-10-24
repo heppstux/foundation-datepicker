@@ -1,3 +1,4 @@
+import myQuery from 'jquery'
 /* =========================================================
  * foundation-datepicker.js
  * Copyright 2015 Peter Beno, najlepsiwebdesigner@gmail.com, @benopeter
@@ -1423,4 +1424,4 @@
 
     $.fn.fdatepicker.DPGlobal = DPGlobal;
 
-}(window.jQuery);
+}(myQuery);
