@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Persian translation for foundation-datepicker, language file from bootstrap-datepicker
  * Mostafa Rokooie <mostafa.rokooie@gmail.com>

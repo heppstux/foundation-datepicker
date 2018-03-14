@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Faroese translation for foundation-datepicker, language file from bootstrap-datepicker
  * Theodor Johannesen <http://github.com/theodorjohannesen>

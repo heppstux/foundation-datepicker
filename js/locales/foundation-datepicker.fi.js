@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Finnish translation for foundation-datepicker
  * Jaakko Salonen <https://github.com/jsalonen>

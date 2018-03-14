@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Estonian translation for foundation-datepicker, language file from bootstrap-datepicker
  * Ando Roots <https://github.com/anroots>

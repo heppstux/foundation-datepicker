@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 ﻿/**
  * Lithuanian translation for foundation-datepicker
  * Šarūnas Gliebus <ssharunas@yahoo.co.uk>

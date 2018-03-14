@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Thai translation for foundation-datepicker
  * Suchau Jiraprapot <seroz24@gmail.com>

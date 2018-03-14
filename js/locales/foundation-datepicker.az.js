@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 // Azerbaijani
 ;(function($){
     $.fn.fdatepicker.dates['az'] = {

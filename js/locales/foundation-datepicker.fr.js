@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * French translation for foundation-datepicker
  * Nico Mollet <nico.mollet@gmail.com>

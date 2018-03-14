@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Dutch translation for foundation-datepicker
  * Reinier Goltstein <mrgoltstein@gmail.com>

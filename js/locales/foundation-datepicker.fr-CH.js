@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * French (Switzerland) translation for foundation-datepicker, language file from bootstrap-datepicker
  * Christoph Jossi <c.jossi@ascami.ch>

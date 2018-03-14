@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Turkish translation for foundation-datepicker
  * Serkan Algur <kaisercrazy_2@hotmail.com>

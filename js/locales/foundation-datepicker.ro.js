@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Romanian translation for foundation-datepicker
  * Cristian Vasile <cristi.mie@gmail.com>

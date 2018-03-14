@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Hebrew translation for foundation-datepicker
  * Sagie Maoz <sagie@maoz.info>

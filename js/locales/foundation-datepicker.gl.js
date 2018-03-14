@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 ;(function($){
 	$.fn.fdatepicker.dates['gl'] = {
 		days: ["Domingo", "Luns", "Martes", "Mércores", "Xoves", "Venres", "Sábado"],

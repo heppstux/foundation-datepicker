@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Korean translation for foundation-datepicker, language file from bootstrap-datepicker
  * This is a port from https://github.com/moment/moment/blob/develop/src/locale/ko.js

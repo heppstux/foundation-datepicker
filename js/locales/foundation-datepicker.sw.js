@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Swahili translation for foundation-datepicker, language file from bootstrap-datepicker
  * Edwin Mugendi <https://github.com/edwinmugendi>

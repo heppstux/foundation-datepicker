@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Brazilian translation for foundation-datepicker
  * Cauan Cabral <cauan@radig.com.br>

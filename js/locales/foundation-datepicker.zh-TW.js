@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Traditional Chinese translation for fondation-datepicker
  * Rung-Sheng Jang <daniel@i-trend.co.cc>

@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Bulgarian translation for foundation-datepicker
  * Apostol Apostolov <apostol.s.apostolov@gmail.com>

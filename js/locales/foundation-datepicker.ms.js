@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Malay translation for foundation-datepicker
  * Ateman Faiz <noorulfaiz@gmail.com>

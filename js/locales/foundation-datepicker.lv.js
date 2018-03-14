@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Latvian translation for foundation-datepicker
  * Artis Avotins <artis@apit.lv>

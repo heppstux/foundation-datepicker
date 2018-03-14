@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Italian translation for foundation-datepicker
  * Enrico Rubboli <rubboli@gmail.com>

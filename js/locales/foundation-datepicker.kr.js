@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Korean translation for foundation-datepicker
  * Gu Youn <http://github.com/guyoun>

@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Esperanto translation for foundation-datepicker, language file from bootstrap-datepicker
  * Emmanuel Debanne <https://github.com/debanne>

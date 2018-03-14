@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Icelandic translation for foundation-datepicker
  * Hinrik Örn Sigurðsson <hinrik.sig@gmail.com>

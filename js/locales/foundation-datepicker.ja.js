@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Japanese translation for foundation-datepicker
  * Norio Suzuki <https://github.com/suzuki/>

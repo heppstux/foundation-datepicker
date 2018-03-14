@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Cambodia (Khmer) translation for foundation-datepicker, language file from bootstrap-datepicker
  * Lytay TOUCH <lytaytouch@gmail.com>

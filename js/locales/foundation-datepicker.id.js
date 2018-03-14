@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Bahasa translation for foundation-datepicker
  * Azwar Akbar <azwar.akbar@gmail.com>

@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Belgium-Dutch translation for foundation-datepicker, language file from bootstrap-datepicker
  * Julien Poulin <poulin_julien@hotmail.com>

@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Vietnamese translation for foundation-datepicker
  * thanks! https://github.com/handleror

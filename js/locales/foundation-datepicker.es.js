@@ -1,3 +1,4 @@
+import jQuery from "jquery"
 /**
  * Spanish translation for foundation-datepicker
  * Bruno Bonamin <bruno.bonamin@gmail.com>
